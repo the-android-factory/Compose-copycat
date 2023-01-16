@@ -1,4 +1,4 @@
-package com.androidfactory.composecopycat
+package com.androidfactory.composecopycat.ui.slack
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
